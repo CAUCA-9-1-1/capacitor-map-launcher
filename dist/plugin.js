@@ -269,8 +269,6 @@ var capacitorMapLauncher = (function (exports, core) {
     exports.MapLauncher = MapLauncher;
     exports.showMarker = showMarker;
 
-    Object.defineProperty(exports, '__esModule', { value: true });
-
     return exports;
 
 })({}, capacitorExports);
